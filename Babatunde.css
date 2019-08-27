@@ -1,0 +1,66 @@
+.myhead {
+    text-align: left;
+    border: none solid;
+    background-color: rgb(19, 119, 158);
+    height: 100px;
+}
+
+img{
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+.sidebar {
+    float: right;
+    border: none solid;
+    color: black;
+    background-color: rgb(81, 164, 197);
+    height: 715px;
+    width:400px;
+}
+
+#sidehead {
+    text-align: left;
+    font-size: 25px;
+    font-weight: 140px;
+}
+
+#sidehead1 {
+    text-align: left;
+    font-size: 25px;
+}
+
+#sidehead2 {
+    text-align: left;
+    font-size: 25px;
+}
+
+#sidehead3 {
+    text-align: left;
+    font-size: 25px;
+}
+
+hr {
+    height: 2px;
+    color: greenyellow;
+    background-color: greenyellow;
+}
+
+.sec {
+    float: left;
+    border: none solid;
+    color: black;
+    background-color: white;
+    height: 715px;
+    width:1101px;
+}
+
+.edu {
+    font-size: 25px;
+}
+
+.exp {
+    font-size: 25px;
+
+}
