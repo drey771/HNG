@@ -3,6 +3,7 @@
     border: none solid;
     background-color: rgb(19, 119, 158);
     height: 100px;
+    color: whitesmoke;
 }
 
 img{
@@ -24,21 +25,25 @@ img{
     text-align: left;
     font-size: 25px;
     font-weight: 140px;
+    color: whitesmoke;
 }
 
 #sidehead1 {
     text-align: left;
     font-size: 25px;
+    color: whitesmoke;
 }
 
 #sidehead2 {
     text-align: left;
     font-size: 25px;
+    color: whitesmoke;
 }
 
 #sidehead3 {
     text-align: left;
     font-size: 25px;
+    color: whitesmoke;
 }
 
 hr {
